@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,redux_saga",
+    "logging_enabled": "false",
+    "name": "redux_sagaSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "redux_sagaSmokeTest.js"
+}
